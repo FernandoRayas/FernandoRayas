@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-fernando-rayas-alvarado-81a856398">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
   <a href="mailto:rayasfer.22@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" />
   </a>
   <a href="https://github.com/FernandoRayas">
     <img src="https://img.shields.io/badge/GitHub-FernandoRayas-181717?logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-fernando-rayas-alvarado-81a856398">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
@@ -191,11 +191,15 @@ Some of my practical work includes:
 ## 🐍 GitHub Contributions
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoRayas/FernandoRayas/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoRayas/FernandoRayas/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/FernandoRayas/FernandoRayas/output/github-contribution-grid-snake.svg" />
-  </picture>
+  Watch my contributions come to life!
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/FernandoRayas/FernandoRayas/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
 
 ---
