@@ -38,8 +38,8 @@ I'm particularly interested in:
 - Data analysis and visualization.
 - Collaborative software development.
 
-Currently, I'm focused on strengthening my skills in
-React, React Native, SQL and modern web technologies.
+Currently, I'm focused on strengthening my skills in AI software development,
+AI automation, FrontEnd, SQL, database management and modern web technologies.
 
 ---
 
