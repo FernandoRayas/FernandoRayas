@@ -100,6 +100,7 @@ Some of my practical work includes:
 - Principal Component Analysis (PCA).
 - Clustering and data segmentation.
 - Weather data processing.
+-   📊 **[Explore my Data Analysis projects (Google Colab)](https://drive.google.com/drive/folders/1prRIuN0dJMnygPOVwPQ3c8YFdGlKTyz7?usp=sharing)**
 
 ## 🎓 Education & Certifications
 
@@ -140,7 +141,6 @@ Some of my practical work includes:
     width="49%"
   />
 </p>
-  📊 **[Explore my Data Analysis projects (Google Colab)](https://drive.google.com/drive/folders/1prRIuN0dJMnygPOVwPQ3c8YFdGlKTyz7?usp=sharing)**
 
 
 <p align="center">
