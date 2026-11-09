@@ -127,17 +127,20 @@ Some of my practical work includes:
 
 ## 📈 GitHub Statistics
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=FernandoRayas&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
+    src="./github-stats.svg"
+    alt="GitHub General Statistics"
+    width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRayas&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
+    src="./github-languages.svg"
+    alt="Most Used Programming Languages"
+    width="49%"
   />
-  📊 **[Explore my Data Analysis projects (Google Colab)](https://drive.google.com/drive/folders/1prRIuN0dJMnygPOVwPQ3c8YFdGlKTyz7?usp=sharing)**
 </p>
+  📊 **[Explore my Data Analysis projects (Google Colab)](https://drive.google.com/drive/folders/1prRIuN0dJMnygPOVwPQ3c8YFdGlKTyz7?usp=sharing)**
 
 
 <p align="center">
