@@ -109,6 +109,7 @@ Some of my practical work includes:
 - AWS Academy Graduate – AWS Academy Cloud Foundations.
 - Cisco Networking Academy – Introduction to Cybersecurity.
 - English C1 – Access English Institute.
+- 📁 **[View all my certificates and achievements](https://drive.google.com/drive/folders/1M17AGhk0LgTmyzXZNzZOh2pv8tryfwng?usp=sharing)**
 
 ## 🌐 Languages
 
@@ -122,6 +123,22 @@ Some of my practical work includes:
 - GitHub: [FernandoRayas](https://github.com/FernandoRayas)
 
 ---
+
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FernandoRayas&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRayas&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  📊 **[Explore my Data Analysis projects (Google Colab)](https://drive.google.com/drive/folders/1prRIuN0dJMnygPOVwPQ3c8YFdGlKTyz7?usp=sharing)**
+</p>
+
 
 <p align="center">
   Thanks for visiting my profile! 🚀
